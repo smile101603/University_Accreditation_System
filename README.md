@@ -10,7 +10,7 @@ UniAc supports fully automated bulk upload of data from other data sources like 
 Prerequisites: Python and Pip <br/><br/> 
 Step 1: Clone this repository in the desired folder by using the following command.<br/>
 ```git
-git clone https://github.com/201901407/University_accreditation_system.git
+git clone https://github.com/smile101603/University_accreditation_system.git
 ```
 Step 2: Install all dependencies by running the following command in terminal. <br/>
 ```python
